@@ -1,0 +1,18 @@
+
+***** http get request 
+curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET https://vrpshop.net/p29test
+
+HTTP/1.1 200 OK
+Server: nginx/1.21.0
+Date: Tue, 05 Oct 2021 09:38:57 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 40
+Connection: keep-alive
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+ETag: W/"28-oEORs794Nt2ItHaytRRo/b99xK8"
+X-Frame-Options: SAMEORIGIN
+
+
+POST
+curl -i -d "shopName=shopa" -d "password=shopa"  https://vrpshop.net/p29shop/shoplogin

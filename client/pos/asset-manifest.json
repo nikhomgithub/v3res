@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pos/static/css/main.79898e2f.chunk.css",
+    "main.js": "/pos/static/js/main.456ee9c0.chunk.js",
+    "main.js.map": "/pos/static/js/main.456ee9c0.chunk.js.map",
+    "runtime-main.js": "/pos/static/js/runtime-main.b609b0a3.js",
+    "runtime-main.js.map": "/pos/static/js/runtime-main.b609b0a3.js.map",
+    "static/css/2.30e53678.chunk.css": "/pos/static/css/2.30e53678.chunk.css",
+    "static/js/2.49aa7b57.chunk.js": "/pos/static/js/2.49aa7b57.chunk.js",
+    "static/js/2.49aa7b57.chunk.js.map": "/pos/static/js/2.49aa7b57.chunk.js.map",
+    "index.html": "/pos/index.html",
+    "precache-manifest.7d491f56ce92d29de3028de2841879ee.js": "/pos/precache-manifest.7d491f56ce92d29de3028de2841879ee.js",
+    "service-worker.js": "/pos/service-worker.js",
+    "static/css/2.30e53678.chunk.css.map": "/pos/static/css/2.30e53678.chunk.css.map",
+    "static/css/main.79898e2f.chunk.css.map": "/pos/static/css/main.79898e2f.chunk.css.map",
+    "static/js/2.49aa7b57.chunk.js.LICENSE.txt": "/pos/static/js/2.49aa7b57.chunk.js.LICENSE.txt",
+    "static/media/RenderModalError.bak": "/pos/static/media/RenderModalError.b0ec9a73.bak",
+    "static/media/App2.css": "/pos/static/media/icecream.96feb646.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b609b0a3.js",
+    "static/css/2.30e53678.chunk.css",
+    "static/js/2.49aa7b57.chunk.js",
+    "static/css/main.79898e2f.chunk.css",
+    "static/js/main.456ee9c0.chunk.js"
+  ]
+}
